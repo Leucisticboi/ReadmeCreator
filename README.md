@@ -45,10 +45,15 @@ THEN I am taken to the corresponding section of the README
 
 ## Table of Contents
 [Description](#description)
+
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Credits](#credits)
+
 [License](#license)
+
 [Badges](#badges)
 
 ## Description

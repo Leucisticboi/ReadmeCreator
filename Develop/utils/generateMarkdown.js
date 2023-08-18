@@ -96,7 +96,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have any questions regarding this project, here is a link to my GitHub profile along with my email address.
+  If you have any questions regarding this project, you can contact me via my GitHub profile or email me directly at the address below.\n
   [GitHub Profile](https://github.com/${data.gitHubUsername})\n
   ${data.emailAddress}
 `;

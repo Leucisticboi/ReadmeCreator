@@ -43,3 +43,20 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 
+## Table of Contents
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Credits](#credits)
+[License](#license)
+[Badges](#badges)
+
+## Description
+This application allows the user to create a custom professional README.md file for whatever project they are preparing to deploy.
+
+## Installation
+N/A
+
+## Usage
+Use of this application is quite straightforward.
+Simply 

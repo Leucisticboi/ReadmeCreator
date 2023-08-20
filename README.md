@@ -1,8 +1,21 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
 # README Generator
+
+## Table of Contents
+[User Story](#user-story)
+
+[Acceptance Criteria](#acceptance-criteria)
+
+[Description](#description)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Video Walkthrough](#video-walkthrough)
+
+[Credits](#credits)
+
+[License](#license)
 
 ## User Story
 AS A developer
@@ -43,25 +56,33 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 
-## Table of Contents
-[Description](#description)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Credits](#credits)
-
-[License](#license)
-
-[Badges](#badges)
-
 ## Description
-This application allows the user to create a custom professional README.md file for whatever project they are preparing to deploy.
+This application allows the user to create a custom professional README.md file for whatever project  they are preparing to deploy.
 
 ## Installation
-N/A
+Clone this repository to a local directory in order to use the application.
 
 ## Usage
-Use of this application is quite straightforward.
-Simply 
+Use of this application is quite straightforward. 
+
+Open the Develop directory in the CLI and run the 'node index.js' command. The console will now print one question at a time, starting with a prompt for the title of the project for which you are creating a README.md file. After answering each question hit 'enter' to save your responses.
+
+After the last prompt is answered the application will stop running and a new README.md file will be written to the Develop directory. You can now open a preview of the file and/or export it to your project repository.
+
+## Video Walkthrough
+https://drive.google.com/file/d/1q8gRkp4LwWO2iNRfuTWKS0PgDD2h-YiS/view
+
+## Credits
+I referenced a couple of the U of U Bootcamp's NodeJS activites to ensure all of my code was written properly- '19-Ins_Inquirer-Demo' and '13-Ins-Read-Write-File'.
+
+For my project license information I referenced https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+I will note that I could have used the Rest API to retrieve license information; however, I thought that it would be simpler to create my own succinct list of licenses to choose from.
+
+## License
+The MIT License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+https://opensource.org/license/mit/
+

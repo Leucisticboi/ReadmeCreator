@@ -11,6 +11,8 @@
 
 [Usage](#usage)
 
+[Video Walkthrough](#video-walkthrough)
+
 [Credits](#credits)
 
 [License](#license)
@@ -67,6 +69,9 @@ Open the Develop directory in the CLI and run the 'node index.js' command. The c
 
 After the last prompt is answered the application will stop running and a new README.md file will be written to the Develop directory. You can now open a preview of the file and/or export it to your project repository.
 
+## Video Walkthrough
+https://drive.google.com/file/d/1q8gRkp4LwWO2iNRfuTWKS0PgDD2h-YiS/view
+
 ## Credits
 I referenced a couple of the U of U Bootcamp's NodeJS activites to ensure all of my code was written properly- '19-Ins_Inquirer-Demo' and '13-Ins-Read-Write-File'.
 
@@ -78,4 +83,6 @@ I will note that I could have used the Rest API to retrieve license information;
 The MIT License
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 https://opensource.org/license/mit/
+

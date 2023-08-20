@@ -70,7 +70,9 @@ After the last prompt is answered the application will stop running and a new RE
 ## Credits
 I referenced a couple of the U of U Bootcamp's NodeJS activites to ensure all of my code was written properly- '19-Ins_Inquirer-Demo' and '13-Ins-Read-Write-File'.
 
-For my project license information I referenced ![https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba). I will note that I could have used the Rest API to retrieve license information; however, I thought that it would be simpler to create my own succinct list of licenses to choose from.
+For my project license information I referenced https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+I will note that I could have used the Rest API to retrieve license information; however, I thought that it would be simpler to create my own succinct list of licenses to choose from.
 
 ## License
 The MIT License

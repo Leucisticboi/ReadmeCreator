@@ -1,9 +1,9 @@
 # README Generator
 
 ## Table of Contents
-[User Story](#userstory)
+[User Story](#user)
 
-[Acceptance Criteria](#acceptancecriteria)
+[Acceptance Criteria](#acceptance)
 
 [Description](#description)
 
